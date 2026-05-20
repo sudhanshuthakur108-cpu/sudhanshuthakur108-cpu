@@ -2,7 +2,7 @@
 
 ### Frontend Developer |
 
-💻 Passionate about building modern, responsive, and high-performance web applications using React and JavaScript.
+💻Building modern, responsive, and high-performance web applications using React Redux APIs and JavaScript.
 
 ---
 
@@ -30,6 +30,7 @@
 - JSX
 - Vite
 - Babel
+- Zod
 
 ## Backend & Database
 - Node.js
