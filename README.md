@@ -30,6 +30,38 @@ Frontend Developer | React Developer | MERN Stack Learner 🚀
 
 ---
 
+# 💼 What I Do
+
+✨ Build responsive and modern web applications  
+⚡ Create clean and reusable React components  
+🎯 Focus on performance, UI/UX and scalability  
+🚀 Develop real-world frontend projects using modern technologies  
+📚 Continuously learning and improving development skills  
+
+---
+
+# 🧰 Tools I Use
+
+- VS Code
+- Git & GitHub
+- Chrome DevTools
+- Postman
+- Netlify
+- Vercel
+- Figma
+
+---
+
+# 🎯 Current Focus
+
+- Advanced React Patterns
+- Backend Development
+- MERN Stack Projects
+- Performance Optimization
+- System Design Basics
+
+---
+
 # 📌 Featured Projects
 
 ## 🍔 QuickBite — Food Delivery Web App
@@ -99,26 +131,6 @@ Learning Management System with clean architecture and responsive dashboards.
 
 ---
 
-# 📊 GitHub Stats
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=sudhanshuthakur108-cpu&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-<img width="390" src="https://streak-stats.demolab.com?user=sudhanshuthakur108-cpu&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuthakur108-cpu&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -140,7 +152,6 @@ Learning Management System with clean architecture and responsive dashboards.
 📧 Email: sudhanshuthakur108@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/sudhanshu-thakur-1b32a5205  
 💻 GitHub: https://github.com/sudhanshuthakur108-cpu  
-🌐 Portfolio: https://yourportfolio.vercel.app
 
 ---
 
