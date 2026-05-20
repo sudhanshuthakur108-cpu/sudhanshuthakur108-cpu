@@ -108,7 +108,7 @@ Learning Management System with clean architecture and responsive dashboards.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuthakur108-cpu&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuthakur108-cpu&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -134,6 +134,7 @@ Learning Management System with clean architecture and responsive dashboards.
 📧 Email: sudhanshuthakur108@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/sudhanshu-thakur-1b32a5205  
 💻 GitHub: https://github.com/sudhanshuthakur108-cpu  
+🌐 Portfolio: https://yourportfolio.vercel.app
 
 ---
 
