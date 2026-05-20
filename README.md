@@ -1,3 +1,39 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Sudhanshu%20Thakur&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20Developer&descAlignY=55" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;Building+Modern+Web+Apps+🚀" />
+</p>
+
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,tailwind,vite,git,github,npm,vercel,netlify,vscode,figma,cpp,python" />
+</p>
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sudhanshuthakur108-cpu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshuthakur108-cpu&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuthakur108-cpu&theme=tokyonight&hide_border=true&layout=compact)
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sudhanshuthakur108-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+
+![](https://komarev.com/ghpvc/?username=sudhanshuthakur108-cpu&color=blue)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/sudhanshuthakur108-cpu/sudhanshuthakur108-cpu/blob/output/github-contribution-grid-snake.svg)
+
+<h1 align="center">Hi 👋, I'm Sudhanshu Thakur</h1>
+<h3 align="center">Frontend Developer | React Developer | MERN Stack Learner 🚀</h3>
+
+<h1 align="center">Hi 👋, I'm Sudhanshu Thakur</h1>
+<h3 align="center">Frontend Developer | React Developer | MERN Stack Learner 🚀</h3>
+
+
 # Hi 👋, I'm Sudhanshu Thakur
 
 ### Frontend Developer |
