@@ -93,7 +93,7 @@ const sudhanshu = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudhanshuthakur108-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=sudhanshuthakur108-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -277,7 +277,7 @@ const sudhanshu = {
 
 <br/>
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=sudhanshuthakur108&theme=tokyonight&hide_border=true)](https://wakatime.com/@sudhanshuthakur108)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshuthakur108-cpu&theme=tokyo-night&hide_border=true&area=true&area_color=2563eb" width="100%" alt="Contribution Graph" />
 
 </div>
 
