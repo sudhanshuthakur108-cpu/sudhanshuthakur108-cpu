@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e3a5f,50:2563eb,75:3b82f6,100:0f172a&height=280&section=header&text=Sudhanshu%20Thakur&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20UI%20Craftsman&descAlignY=58&descSize=21" width="100%"/>
@@ -190,6 +191,18 @@ focus_2026:
   - System Design Fundamentals
   - Problem Solving & DSA Practice
 ```
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sudhanshuthakur108-cpu/sudhanshuthakur108-cpu/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+
+<sub>⚙️ Auto-generated daily via GitHub Actions — see workflow setup below</sub>
+
+</div>
 
 ---
 
