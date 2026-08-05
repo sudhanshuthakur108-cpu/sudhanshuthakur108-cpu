@@ -32,7 +32,7 @@ class Sudhanshu extends FrontendDeveloper {
     this.name      = "Sudhanshu Thakur";
     this.role      = "Frontend Developer";
     this.education = "B.Tech CSE, Class of 2026";
-    this.location  = "Greater Noida, India 📍";
+    this.location  = "Noida, India 📍";
     this.status    = "🟢 Open to Work";
     this.stack     = ["React.js", "Redux Toolkit", "Tailwind CSS", "JavaScript ES6+"];
     this.learning  = ["Node.js", "System Design", "Full Stack (MERN)"];
