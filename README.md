@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=0" width="0"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&random=false&width=750&height=65&lines=Hey+there%2C+I'm+Sudhanshu+%F0%9F%91%8B;Frontend+Developer+%7C+React+Specialist;Building+Beautiful+%26+Fast+Web+Apps+%F0%9F%9A%80;Turning+Ideas+into+Pixel-Perfect+UIs+%E2%9C%A8;Currently+Hunting+for+Frontend+Roles+%F0%9F%94%A5;Open+to+Exciting+Opportunities+-+Let's+Talk!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&random=false&width=750&height=65&lines=Hey+there%2C+I'm+Sudhanshu+%F0%9F%91%8B;Forward+Deployed+Engineer+%7C+React+Specialist;Building+Beautiful+%26+Fast+Web+Apps+%F0%9F%9A%80;Turning+Ideas+into+Pixel-Perfect+UIs+%E2%9C%A8;Currently+Hunting+for+Frontend+Roles+%F0%9F%94%A5;Open+to+Exciting+Opportunities+-+Let's+Talk!)](https://git.io/typing-svg)
 
 <br/>
 
