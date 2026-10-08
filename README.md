@@ -26,16 +26,16 @@
 ## 🚀 About Me
 
 ```typescript
-class Sudhanshu extends FrontendDeveloper {
+class Sudhanshu extends ForwardDeployedEngineer {
   constructor() {
     super();
     this.name      = "Sudhanshu Thakur";
-    this.role      = "Frontend Developer";
+    this.role      = "Forward Deployed Engineer";
     this.education = "B.Tech CSE, Class of 2026";
     this.location  = "Noida, India 📍";
     this.status    = "🟢 Open to Work";
     this.stack     = ["React.js", "Redux Toolkit", "Tailwind CSS", "JavaScript ES6+"];
-    this.learning  = ["Node.js", "System Design", "Full Stack (MERN)"];
+    this.learning  = ["Node.js", "System Design", "Full Stack (MERN)", "LLM","RAG","VECTOR DATABASE"];
   }
 
   debug() {
